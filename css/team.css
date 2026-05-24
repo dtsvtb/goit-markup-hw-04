@@ -17,6 +17,10 @@
 .team .item {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
+  box-shadow:
+    0 1px 6px 0 rgb(46, 47, 66, 0.08),
+    0 1px 1px 0 rgb(46, 47, 66, 0.16),
+    0 2px 1px 0 rgb(46, 47, 66, 0.08);
 }
 .team .subtitle {
   color: #2e2f42;

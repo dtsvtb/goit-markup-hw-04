@@ -26,3 +26,10 @@
 .features {
   padding: 120px 0;
 }
+.icon-features {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: #f4f4fd;
+  padding: 24px 100px;
+}
